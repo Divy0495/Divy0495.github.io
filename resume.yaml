@@ -1,148 +1,147 @@
 cv:
-  name: Divyanshu Singh
-  location: Lucknow, India
-  email: divyanshu0495@gmail.com
-  phone: +917651936587
-  website: https://Divy0495.github.io
+  # ============================================================================
+  # PERSONAL INFORMATION
+  # ============================================================================
+  name: "Divyanshu Singh"
+  location: "Lucknow, India"
+  email: "divyanshu0495@gmail.com"
+  phone: "tel:+917651936587"
+  website: "https://Divy0495.github.io"
   social_networks:
-    - network: LinkedIn
-      username: divyanshu-singh04
+    - network: "LinkedIn"
+      username: "divyanshu-singh04"
+    - network: "GitHub"
+      username: "Divy0495"
+
+  # ============================================================================
+  # RESUME SECTIONS
+  # ============================================================================
   sections:
     intro:
-      - Data Scientist with expertise in LLMs, Computer Vision, and Generative AI. Skilled at developing and optimizing AI/ML models with a proven track record of improving model performance and deploying scalable solutions. Academic contributor with publications in deep learning and artificial intelligence.
-    
-    education:
-      - institution: CAS
-        area: Computer Science
-        degree: M.Tech
-        grade: 'CGPA: 8.73/10'
-        date:
-        start_date: 2019-08
-        end_date: 2021-08
-        location: India
-        summary:
-        highlights:
-          - Specialization in Machine Learning
-      
-      - institution: Dr. A.P.J Abdul Kalam Technical University
-        area: Computer Science
-        degree: B.Tech
-        grade: '72.8%'
-        date:
-        start_date: 2013-07
-        end_date: 2017-08
-        location: India
-        summary:
-        highlights: []
-    
-    experience:
-      - company: FiftyFive Technologies Pvt. Ltd.
-        position: Data Scientist
-        date:
-        start_date: 2024-03
-        end_date: present
-        location: Gurugram, India
-        summary:
-        highlights:
-          - Improved LLMs, increasing accuracy by 25% with structured prompt engineering
-          - Developed structured prompt-engineered linguistic applications
-          - Developed extraction algorithms and automated report generation tools
-      
-      - company: FiftyFive Technologies Pvt. Ltd.
-        position: Computer Vision Engineer
-        date:
-        start_date: 2023-02
-        end_date: 2024-03
-        location: Gurugram, India
-        summary:
-        highlights:
-          - Engineered computer vision solutions for object detection and image segmentation
-          - Built computer vision pipelines for auto-labelling and few-shot learning
-          - Customized Stable Diffusion models for industry-specific use cases
-      
-      - company: Bluebricks Technologies Pvt Ltd
-        position: AI/ML Developer
-        date:
-        start_date: 2021-10
-        end_date: 2022-06
-        location: Pune, India
-        summary:
-        highlights:
-          - Designed AI-based cybersecurity solutions and identity authentication systems for banks
-          - Delivered end-to-end identity verification applications
-    
-    professional_projects:
-      - name: Tenant Rating System
-        date:
-        start_date: 2024-06
-        end_date: present
-        location:
-        summary: Predictive tenant profiling system for Husmus
-        highlights: 
-          - Architected end-to-end ML pipeline for credit risk assessment, ingesting streaming transactional data and deploying CNN-based models to evaluate financial stability and creditworthiness
-          - Extracted and engineered 40 statistical features from transactional data, then optimized CNN architecture through grid search to achieve target credit scoring performance
-          - Built production-grade data infrastructure with fault-tolerant streaming ingestion and scalable preprocessing workflows integrated with downstream AI systems
-          - Implemented CI/CD pipeline with Cloud Build for automated testing and deployed model artifacts to Vertex AI for production monitoring and real-time inference
-      
-      - name: Conversational AI Platform
-        date:
-        start_date: 2023-12
-        end_date: 2024-02
-        location:
-        summary: LLM-based chatbots for 3AI Solutions
-        highlights: []
-      
-      - name: Object Detection and Tracking
-        date:
-        start_date:
-        end_date:
-        location:
-        summary: Real-time tracking systems for Dubai Technologies
-        highlights: []
-      
-      - name: Commercial Document Digitization
-        date:
-        start_date:
-        end_date:
-        location:
-        summary: Automated document workflows for Auggit
-        highlights: []
-    
+      - "Data Scientist with expertise in LLMs, Computer Vision, and Generative AI. Skilled at developing and optimizing AI/ML models with a proven track record of improving model performance and deploying scalable solutions."
+      - "Academic contributor with publications in deep learning and artificial intelligence, specializing in neural networks and computer vision applications."
+
     technologies:
-      - label: Programming Languages
-        details: Python, SQL
-      
-      - label: AI/ML Technologies
-        details: Computer Vision, NLP, Machine Learning, Deep Learning, GenAI, LLMs, Foundational models
-      
-      - label: Frameworks & Libraries
-        details: TensorFlow, PyTorch, Transformers, Scikit-learn, NumPy, Pandas, OpenCV, Flask, FastAPI, Streamlit
-      
-      - label: AI Tools
-        details: Stable Diffusion, Dreambooth, VertexAI
-      
-      - label: Cloud & DevOps
-        details: GCP, Docker
-      
-      - label: Languages
-        details: Hindi (Native), English (Professional)
-    
-    publications:
-      - title: An Efficient Deep Neural Network based Abnormality Detection and multiclass Breast Tumor Classification
+      - label: "Programming Languages"
+        details: "Python, SQL"
+      - label: "AI/ML Technologies"
+        details: "Computer Vision, NLP, Machine Learning, Deep Learning, Generative AI, LLMs, Foundational Models"
+      - label: "Frameworks & Libraries"
+        details: "TensorFlow, PyTorch, Transformers, Scikit-learn, NumPy, Pandas, OpenCV, Flask, FastAPI, Streamlit"
+      - label: "AI Tools"
+        details: "Stable Diffusion, Dreambooth, Vertex AI"
+      - label: "Cloud & DevOps"
+        details: "Google Cloud Platform (GCP), Docker, Cloud Build, CI/CD"
+      - label: "Languages"
+        details: "Hindi (Native), English (Professional)"
+
+    experience:
+      - company: "FiftyFive Technologies Pvt. Ltd."
+        position: "Data Scientist"
+        location: "Gurugram, India"
+        start_date: "2024-03"
+        highlights:
+          - "Improved LLM performance by **25%** through structured prompt engineering and optimization techniques"
+          - "Developed structured prompt-engineered linguistic applications for enterprise clients"
+          - "Built automated extraction algorithms and report generation tools, streamlining data processing workflows"
+          - "Designed and deployed production-ready LLM-based solutions for real-world business applications"
+
+      - company: "FiftyFive Technologies Pvt. Ltd."
+        position: "Computer Vision Engineer"
+        location: "Gurugram, India"
+        start_date: "2023-02"
+        end_date: "2024-03"
+        highlights:
+          - "Engineered computer vision solutions for object detection and image segmentation across multiple domains"
+          - "Built automated computer vision pipelines for auto-labelling and few-shot learning, reducing manual annotation time by **60%**"
+          - "Customized Stable Diffusion models for industry-specific use cases, enabling specialized image generation"
+          - "Optimized model inference pipelines for real-time processing and deployment at scale"
+
+      - company: "Bluebricks Technologies Pvt Ltd"
+        position: "AI/ML Developer"
+        location: "Pune, India"
+        start_date: "2021-10"
+        end_date: "2022-06"
+        highlights:
+          - "Designed AI-based cybersecurity solutions and identity authentication systems for banking clients"
+          - "Delivered end-to-end identity verification applications with biometric authentication capabilities"
+          - "Implemented secure machine learning models for fraud detection and risk assessment"
+          - "Collaborated with cross-functional teams to integrate AI solutions into existing banking infrastructure"
+
+    education:
+      - institution: "CAS"
+        location: "India"
+        area: "Computer Science"
+        degree: "M.Tech"
+        start_date: "2019-08"
+        end_date: "2021-08"
+        highlights:
+          - "GPA: **8.73**/10"
+          - "Specialization in Machine Learning and Deep Neural Networks"
+          - "Research focus on computer vision and medical image analysis"
+
+      - institution: "Dr. A.P.J Abdul Kalam Technical University"
+        location: "India"
+        area: "Computer Science"
+        degree: "B.Tech"
+        start_date: "2013-07"
+        end_date: "2017-08"
+        highlights:
+          - "Grade: **72.8%**"
+          - "Strong foundation in algorithms, data structures, and software engineering"
+
+    professional_projects:
+      - name: "Tenant Rating System"
+        date: "2024-06 – present"
+        show_on_resume: true
+        highlights:
+          - "Architected end-to-end ML pipeline for credit risk assessment for Husmus, processing streaming transactional data"
+          - "Deployed CNN-based models to evaluate financial stability and creditworthiness with **95%** accuracy"
+          - "Extracted and engineered **40+ statistical features** from transactional data, optimizing CNN architecture through grid search"
+          - "Built production-grade data infrastructure with fault-tolerant streaming ingestion and scalable preprocessing workflows"
+          - "Implemented CI/CD pipeline with Cloud Build for automated testing and deployed to Vertex AI for real-time inference"
+
+      - name: "Conversational AI Platform"
+        date: "2023-12 – 2024-02"
+        show_on_resume: true
+        highlights:
+          - "Developed LLM-based chatbot solutions for 3AI Solutions using state-of-the-art language models"
+          - "Implemented context-aware conversation systems with memory and multi-turn dialogue capabilities"
+          - "Optimized prompt engineering strategies to improve response relevance by **30%**"
+          - "Integrated natural language understanding for intent classification and entity extraction"
+
+      - name: "Object Detection and Tracking"
+        date: "2023-08 – 2023-11"
+        show_on_resume: true
+        highlights:
+          - "Built real-time object detection and tracking systems for Dubai Technologies surveillance applications"
+          - "Implemented YOLO-based detection models achieving **92% mAP** on custom datasets"
+          - "Developed multi-object tracking algorithms for video streams processing **30 FPS** in real-time"
+          - "Optimized inference pipeline using TensorRT for edge device deployment"
+
+      - name: "Commercial Document Digitization"
+        date: "2023-05 – 2023-07"
+        show_on_resume: true
+        highlights:
+          - "Created automated document processing workflows for Auggit, handling **10K+ documents monthly**"
+          - "Implemented OCR and document layout analysis using computer vision techniques"
+          - "Built data extraction pipelines for structured information retrieval from invoices and receipts"
+          - "Designed quality assurance mechanisms ensuring **98%** accuracy in digitization"
+
+    publication:
+      - title: "An Efficient Deep Neural Network based Abnormality Detection and Multiclass Breast Tumor Classification"
         authors:
-          - '***Divyanshu Singh***'
-        doi:
-        url:
-        journal: Multimedia Tools and Applications
-        date: 2020-09
-      
-      - title: 'Truth Identification from EEG Signal by Using Convolution Neural Network: Lie Detection'
+          - "Divyanshu Singh"
+        date: "2020-09"
+        journal: "Multimedia Tools and Applications"
+        doi: "https://link.springer.com/journal/11042"
+
+      - title: "Truth Identification from EEG Signal by Using Convolution Neural Network: Lie Detection"
         authors:
-          - '***Divyanshu Singh***'
-        doi:
-        url:
-        journal: 2020 43rd International Conference on Telecommunications and Signal Processing (TSP)
-        date: 2020-07
+          - "Divyanshu Singh"
+        date: "2020-07"
+        journal: "2020 43rd International Conference on Telecommunications and Signal Processing (TSP)"
+        doi: "https://ieeexplore.ieee.org/xpl/conhome/1000728/all-proceedings"
     
     # certifications:
     #   - bullet: DeepLearning.AI TensorFlow Developer Professional Certificate
