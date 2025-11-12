@@ -152,7 +152,7 @@ cv:
     # interests:
     #   - bullet: Deep Learning, Machine Learning, AI Research
   
-  # sort_entries: none
+  sort_entries: none
 design:
   theme: engineeringclassic
   page:
