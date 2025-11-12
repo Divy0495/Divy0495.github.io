@@ -1,0 +1,300 @@
+cv:
+  name: Divyanshu Singh
+  location: Lucknow, India
+  email: divyanshu0495@gmail.com
+  phone: +917651936587
+  website: https://Divy0495.github.io
+  social_networks:
+    - network: LinkedIn
+      username: divyanshu-singh04
+  sections:
+    intro:
+      - Data Scientist with expertise in LLMs, Computer Vision, and Generative AI. Skilled at developing and optimizing AI/ML models with a proven track record of improving model performance and deploying scalable solutions. Academic contributor with publications in deep learning and artificial intelligence.
+    
+    education:
+      - institution: CAS
+        area: Computer Science
+        degree: M.Tech
+        grade: 'CGPA: 8.73/10'
+        date:
+        start_date: 2019-08
+        end_date: 2021-08
+        location: India
+        summary:
+        highlights:
+          - Specialization in Machine Learning
+      
+      - institution: Dr. A.P.J Abdul Kalam Technical University
+        area: Computer Science
+        degree: B.Tech
+        grade: '72.8%'
+        date:
+        start_date: 2013-07
+        end_date: 2017-08
+        location: India
+        summary:
+        highlights: []
+    
+    experience:
+      - company: FiftyFive Technologies Pvt. Ltd.
+        position: Data Scientist
+        date:
+        start_date: 2024-03
+        end_date: present
+        location: Gurugram, India
+        summary:
+        highlights:
+          - Improved LLMs, increasing accuracy by 25% with structured prompt engineering
+          - Developed structured prompt-engineered linguistic applications
+          - Developed extraction algorithms and automated report generation tools
+      
+      - company: FiftyFive Technologies Pvt. Ltd.
+        position: Computer Vision Engineer
+        date:
+        start_date: 2023-02
+        end_date: 2024-03
+        location: Gurugram, India
+        summary:
+        highlights:
+          - Engineered computer vision solutions for object detection and image segmentation
+          - Built computer vision pipelines for auto-labelling and few-shot learning
+          - Customized Stable Diffusion models for industry-specific use cases
+      
+      - company: Bluebricks Technologies Pvt Ltd
+        position: AI/ML Developer
+        date:
+        start_date: 2021-10
+        end_date: 2022-06
+        location: Pune, India
+        summary:
+        highlights:
+          - Designed AI-based cybersecurity solutions and identity authentication systems for banks
+          - Delivered end-to-end identity verification applications
+    
+    professional_projects:
+      - name: Tenant Rating System
+        date:
+        start_date: 2024-06
+        end_date: present
+        location:
+        summary: Predictive tenant profiling system for Husmus
+        highlights: 
+          - Architected end-to-end ML pipeline for credit risk assessment, ingesting streaming transactional data and deploying CNN-based models to evaluate financial stability and creditworthiness
+          - Extracted and engineered 40 statistical features from transactional data, then optimized CNN architecture through grid search to achieve target credit scoring performance
+          - Built production-grade data infrastructure with fault-tolerant streaming ingestion and scalable preprocessing workflows integrated with downstream AI systems
+          - Implemented CI/CD pipeline with Cloud Build for automated testing and deployed model artifacts to Vertex AI for production monitoring and real-time inference
+      
+      - name: Conversational AI Platform
+        date:
+        start_date: 2023-12
+        end_date: 2024-02
+        location:
+        summary: LLM-based chatbots for 3AI Solutions
+        highlights: []
+      
+      - name: Object Detection and Tracking
+        date:
+        start_date:
+        end_date:
+        location:
+        summary: Real-time tracking systems for Dubai Technologies
+        highlights: []
+      
+      - name: Commercial Document Digitization
+        date:
+        start_date:
+        end_date:
+        location:
+        summary: Automated document workflows for Auggit
+        highlights: []
+    
+    technologies:
+      - label: Programming Languages
+        details: Python, SQL
+      
+      - label: AI/ML Technologies
+        details: Computer Vision, NLP, Machine Learning, Deep Learning, GenAI, LLMs, Foundational models
+      
+      - label: Frameworks & Libraries
+        details: TensorFlow, PyTorch, Transformers, Scikit-learn, NumPy, Pandas, OpenCV, Flask, FastAPI, Streamlit
+      
+      - label: AI Tools
+        details: Stable Diffusion, Dreambooth, VertexAI
+      
+      - label: Cloud & DevOps
+        details: GCP, Docker
+      
+      - label: Languages
+        details: Hindi (Native), English (Professional)
+    
+    publications:
+      - title: An Efficient Deep Neural Network based Abnormality Detection and multiclass Breast Tumor Classification
+        authors:
+          - '***Divyanshu Singh***'
+        doi:
+        url:
+        journal: Multimedia Tools and Applications
+        date: 2020-09
+      
+      - title: 'Truth Identification from EEG Signal by Using Convolution Neural Network: Lie Detection'
+        authors:
+          - '***Divyanshu Singh***'
+        doi:
+        url:
+        journal: 2020 43rd International Conference on Telecommunications and Signal Processing (TSP)
+        date: 2020-07
+    
+    # certifications:
+    #   - bullet: DeepLearning.AI TensorFlow Developer Professional Certificate
+    #   - bullet: Introduction to TensorFlow for AI, Machine Learning, and Deep Learning
+    #   - bullet: 'Improving Deep Neural Networks: Hyperparameter Tuning, Regularization, and Optimization'
+    #   - bullet: Introduction to Docker
+    
+    # interests:
+    #   - bullet: Deep Learning, Machine Learning, AI Research
+  
+  # sort_entries: none
+design:
+  theme: engineeringclassic
+  page:
+    size: us-letter
+    top_margin: 2cm
+    bottom_margin: 2cm
+    left_margin: 2cm
+    right_margin: 2cm
+    show_page_numbering: false
+    show_last_updated_date: true
+  colors:
+    text: rgb(0, 0, 0)
+    name: rgb(0, 79, 144)
+    connections: rgb(0, 79, 144)
+    section_titles: rgb(0, 79, 144)
+    links: rgb(0, 79, 144)
+    last_updated_date_and_page_numbering: rgb(128, 128, 128)
+  text:
+    font_family: Raleway
+    font_size: 10pt
+    leading: 0.6em
+    alignment: justified
+    date_and_location_column_alignment: right
+  links:
+    underline: false
+    use_external_link_icon: false
+  header:
+    name_font_family: Raleway
+    name_font_size: 30pt
+    name_bold: false
+    small_caps_for_name: false
+    photo_width: 3.5cm
+    vertical_space_between_name_and_connections: 0.7cm
+    vertical_space_between_connections_and_first_section: 0.7cm
+    horizontal_space_between_connections: 0.5cm
+    connections_font_family: Raleway
+    separator_between_connections: ''
+    use_icons_for_connections: true
+    use_urls_as_placeholders_for_connections: false
+    make_connections_links: true
+    alignment: center
+  section_titles:
+    type: with-partial-line
+    font_family: Raleway
+    font_size: 1.4em
+    bold: false
+    small_caps: false
+    line_thickness: 0.5pt
+    vertical_space_above: 0.5cm
+    vertical_space_below: 0.3cm
+  entries:
+    date_and_location_width: 4.15cm
+    left_and_right_margin: 0.2cm
+    horizontal_space_between_columns: 0.1cm
+    vertical_space_between_entries: 1.2em
+    allow_page_break_in_sections: true
+    allow_page_break_in_entries: true
+    short_second_row: false
+    show_time_spans_in: []
+  highlights:
+    bullet: •
+    nested_bullet: '-'
+    top_margin: 0.25cm
+    left_margin: 0cm
+    vertical_space_between_highlights: 0.25cm
+    horizontal_space_between_bullet_and_highlight: 0.5em
+    summary_left_margin: 0cm
+  entry_types:
+    one_line_entry:
+      template: '**LABEL:** DETAILS'
+    education_entry:
+      main_column_first_row_template: '**INSTITUTION**, AREA -- LOCATION'
+      degree_column_template: '**DEGREE**'
+      degree_column_width: 1.5cm
+      main_column_second_row_template: |-
+        SUMMARY
+        HIGHLIGHTS
+      date_and_location_column_template: DATE
+    normal_entry:
+      main_column_first_row_template: '**NAME** -- **LOCATION**'
+      main_column_second_row_template: |-
+        SUMMARY
+        HIGHLIGHTS
+      date_and_location_column_template: DATE
+    experience_entry:
+      main_column_first_row_template: '**POSITION**, COMPANY -- LOCATION'
+      main_column_second_row_template: |-
+        SUMMARY
+        HIGHLIGHTS
+      date_and_location_column_template: DATE
+    publication_entry:
+      main_column_first_row_template: '**TITLE**'
+      main_column_second_row_template: |-
+        AUTHORS
+        URL (JOURNAL)
+      main_column_second_row_without_journal_template: |-
+        AUTHORS
+        URL
+      main_column_second_row_without_url_template: |-
+        AUTHORS
+        JOURNAL
+      date_and_location_column_template: DATE
+locale:
+  language: en
+  phone_number_format: national
+  page_numbering_template: NAME - Page PAGE_NUMBER of TOTAL_PAGES
+  last_updated_date_template: Last updated in TODAY
+  date_template: MONTH_ABBREVIATION YEAR
+  month: month
+  months: months
+  year: year
+  years: years
+  present: present
+  to: –
+  abbreviations_for_months:
+    - Jan
+    - Feb
+    - Mar
+    - Apr
+    - May
+    - June
+    - July
+    - Aug
+    - Sept
+    - Oct
+    - Nov
+    - Dec
+  full_names_of_months:
+    - January
+    - February
+    - March
+    - April
+    - May
+    - June
+    - July
+    - August
+    - September
+    - October
+    - November
+    - December
+rendercv_settings:
+  date: '2025-10-28'
+  bold_keywords: []
+  sort_entries: none
