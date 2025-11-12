@@ -5,7 +5,7 @@ cv:
   name: "Divyanshu Singh"
   location: "Lucknow, India"
   email: "divyanshu0495@gmail.com"
-  phone: "tel:+917651936587"
+  phone: "+917651936587"
   website: "https://Divy0495.github.io"
   social_networks:
     - network: "LinkedIn"
@@ -92,7 +92,7 @@ cv:
 
     professional_projects:
       - name: "Tenant Rating System"
-        date: "2024-06 – present"
+        date: "2024-06"
         show_on_resume: true
         highlights:
           - "Architected end-to-end ML pipeline for credit risk assessment for Husmus, processing streaming transactional data"
@@ -102,7 +102,7 @@ cv:
           - "Implemented CI/CD pipeline with Cloud Build for automated testing and deployed to Vertex AI for real-time inference"
 
       - name: "Conversational AI Platform"
-        date: "2023-12 – 2024-02"
+        date: "2023-12"
         show_on_resume: true
         highlights:
           - "Developed LLM-based chatbot solutions for 3AI Solutions using state-of-the-art language models"
@@ -111,7 +111,7 @@ cv:
           - "Integrated natural language understanding for intent classification and entity extraction"
 
       - name: "Object Detection and Tracking"
-        date: "2023-08 – 2023-11"
+        date: "2023-08"
         show_on_resume: true
         highlights:
           - "Built real-time object detection and tracking systems for Dubai Technologies surveillance applications"
@@ -120,7 +120,7 @@ cv:
           - "Optimized inference pipeline using TensorRT for edge device deployment"
 
       - name: "Commercial Document Digitization"
-        date: "2023-05 – 2023-07"
+        date: "2023-05"
         show_on_resume: true
         highlights:
           - "Created automated document processing workflows for Auggit, handling **10K+ documents monthly**"
@@ -134,13 +134,14 @@ cv:
           - "Divyanshu Singh"
         date: "2020-09"
         journal: "Multimedia Tools and Applications"
-        # doi: 
+        # doi: "https://link.springer.com/journal/11042"
+
       - title: "Truth Identification from EEG Signal by Using Convolution Neural Network: Lie Detection"
         authors:
           - "Divyanshu Singh"
         date: "2020-07"
         journal: "2020 43rd International Conference on Telecommunications and Signal Processing (TSP)"
-        # doi: 
+        # doi: "https://ieeexplore.ieee.org/xpl/conhome/1000728/all-proceedings"
     
     # certifications:
     #   - bullet: DeepLearning.AI TensorFlow Developer Professional Certificate
