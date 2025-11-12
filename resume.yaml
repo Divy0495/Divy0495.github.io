@@ -134,14 +134,13 @@ cv:
           - "Divyanshu Singh"
         date: "2020-09"
         journal: "Multimedia Tools and Applications"
-        doi: "https://link.springer.com/journal/11042"
-
+        # doi: 
       - title: "Truth Identification from EEG Signal by Using Convolution Neural Network: Lie Detection"
         authors:
           - "Divyanshu Singh"
         date: "2020-07"
         journal: "2020 43rd International Conference on Telecommunications and Signal Processing (TSP)"
-        doi: "https://ieeexplore.ieee.org/xpl/conhome/1000728/all-proceedings"
+        # doi: 
     
     # certifications:
     #   - bullet: DeepLearning.AI TensorFlow Developer Professional Certificate
