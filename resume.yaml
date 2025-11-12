@@ -21,20 +21,6 @@ cv:
       - "Data Scientist with expertise in LLMs, Computer Vision, and Generative AI. Skilled at developing and optimizing AI/ML models with a proven track record of improving model performance and deploying scalable solutions."
       - "Academic contributor with publications in deep learning and artificial intelligence, specializing in neural networks and computer vision applications."
 
-    technologies:
-      - label: "Programming Languages"
-        details: "Python, SQL"
-      - label: "AI/ML Technologies"
-        details: "Computer Vision, NLP, Machine Learning, Deep Learning, Generative AI, LLMs, Foundational Models"
-      - label: "Frameworks & Libraries"
-        details: "TensorFlow, PyTorch, Transformers, Scikit-learn, NumPy, Pandas, OpenCV, Flask, FastAPI, Streamlit"
-      - label: "AI Tools"
-        details: "Stable Diffusion, Dreambooth, Vertex AI"
-      - label: "Cloud & DevOps"
-        details: "Google Cloud Platform (GCP), Docker, Cloud Build, CI/CD"
-      - label: "Languages"
-        details: "Hindi (Native), English (Professional)"
-
     experience:
       - company: "FiftyFive Technologies Pvt. Ltd."
         position: "Data Scientist"
@@ -89,6 +75,20 @@ cv:
         highlights:
           - "Grade: **72.8%**"
           - "Strong foundation in algorithms, data structures, and software engineering"
+
+    technologies:
+      - label: "Programming Languages"
+        details: "Python, SQL"
+      - label: "AI/ML Technologies"
+        details: "Computer Vision, NLP, Machine Learning, Deep Learning, Generative AI, LLMs, Foundational Models"
+      - label: "Frameworks & Libraries"
+        details: "TensorFlow, PyTorch, Transformers, Scikit-learn, NumPy, Pandas, OpenCV, Flask, FastAPI, Streamlit"
+      - label: "AI Tools"
+        details: "Stable Diffusion, Dreambooth, Vertex AI"
+      - label: "Cloud & DevOps"
+        details: "Google Cloud Platform (GCP), Docker, Cloud Build, CI/CD"
+      - label: "Languages"
+        details: "Hindi (Native), English (Professional)"
 
     professional_projects:
       - name: "Tenant Rating System"
